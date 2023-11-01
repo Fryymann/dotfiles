@@ -32,6 +32,8 @@ alias editbash='code ~/.dotfiles'
 
 alias bn='babel-node $argv'
 
+alias showwifi='netsh wlan show profile name="Verizon_DTX3HJ" key=clear'
+
 # --------- Git Aliases ---------
 alias ga='git add $argv'
 alias gst='git status'
